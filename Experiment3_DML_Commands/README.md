@@ -397,9 +397,9 @@ WHERE ename LIKE'__r%';
 ## Module 2 SEB Completion Grades
 
 
-<img width="1903" height="65" alt="Screenshot 2026-03-18 134945" src="https://github.com/user-attachments/assets/79032e53-d39a-46c1-a037-55d8b6848c51" />
-<img width="909" height="667" alt="image" src="https://github.com/user-attachments/assets/32ff97c3-c991-4996-8e78-0769df98146e" />
-/>
+<img width="946" height="188" alt="image" src="https://github.com/user-attachments/assets/e449b9c6-7b88-45ad-a5c1-374df99af43a" />
+<img width="866" height="235" alt="image" src="https://github.com/user-attachments/assets/0a6aea00-773e-441e-ae9d-7106e1d1c695" />
+
 
 
 ## RESULT
